@@ -184,6 +184,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*R.E.P.O. · Updated 2026-11-17 · Shared under the MIT License*
+*R.E.P.O. · Updated 2026-11-18 · Shared under the MIT License*
 
-<!-- updated 2026-11-17 -->
+<!-- updated 2026-11-18 -->
